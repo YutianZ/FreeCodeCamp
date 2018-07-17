@@ -1,0 +1,34 @@
+body {
+	text-align:center;
+	min-width: 300px;
+	font-size: 18px;
+}
+#main {
+	margin: 30px auto;
+    padding: 15px;
+    border: 0px solid;
+    border-radius: 5px;
+    background: #eee;
+}
+img {
+	max-width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-div {
+  width: 100%;
+	margin: 20px auto;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	background: white;
+}
+
+#img-caption {
+	margin: 10px auto;
+}
+ul {
+	text-align: left;
+	max-width: 500px;
+	margin: 0px auto;
+}
